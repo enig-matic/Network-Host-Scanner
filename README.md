@@ -31,13 +31,7 @@ pip install scapy
 Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Network-Host-Scanner.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd Network-Host-Scanner
+git clone https://github.com/Network-Host-Scanner
 ```
 
 ## ▶️ Usage
