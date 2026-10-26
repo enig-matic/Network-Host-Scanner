@@ -22,17 +22,12 @@ A simple Python-based network scanning tool that allows users to scan **one host
 - Python 3 installed on your system.
 - Install Scapy if your script uses it:
 
-```bash
-pip install scapy
-```
-
-## 📥 Installation
+## 📥 Installatio
 
 Clone this repository:
 
 ```bash
-git clone https://github.com/Network-Host-Scanner
-```
+[git clone https://github.com/jangotra-hartik/Network-Host-Scanner.git)]
 
 ## ▶️ Usage
 
